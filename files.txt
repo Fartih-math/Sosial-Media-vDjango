@@ -1,0 +1,142 @@
+ Volume in drive C is OS
+ Volume Serial Number is 429B-A2B4
+
+ Directory of C:\Users\ASUS\env\Scripts\project_name
+
+30/04/2026  10.50    <DIR>          .
+30/04/2026  10.08    <DIR>          ..
+30/04/2026  10.08             1.027 .gitignore
+30/04/2026  10.08             1.804 .gitlab-ci.yml
+30/04/2026  10.50                 0 files.txt
+30/04/2026  10.08             1.211 LICENSE
+30/04/2026  10.44    <DIR>          main
+30/04/2026  10.08               690 manage.py
+30/04/2026  10.08                68 Procfile
+30/04/2026  10.38    <DIR>          project_name
+30/04/2026  10.08            14.509 README.en.md
+30/04/2026  10.08            15.283 README.md
+30/04/2026  10.08               168 requirements.txt
+30/04/2026  10.43    <DIR>          sosmed
+30/04/2026  10.08    <DIR>          static
+30/04/2026  10.08    <DIR>          templates
+30/04/2026  10.08             4.147 tnd.yml
+              10 File(s)         38.907 bytes
+
+ Directory of C:\Users\ASUS\env\Scripts\project_name\main
+
+30/04/2026  10.44    <DIR>          .
+30/04/2026  10.50    <DIR>          ..
+30/04/2026  10.27               289 admin.py
+30/04/2026  10.08                88 apps.py
+30/04/2026  09.53               255 forms.py
+30/04/2026  10.08    <DIR>          migrations
+30/04/2026  10.44               523 models.py
+30/04/2026  10.08    <DIR>          static
+30/04/2026  10.18    <DIR>          templates
+30/04/2026  10.08             1.515 tests.py
+30/04/2026  10.08               136 urls.py
+30/04/2026  10.08               107 views.py
+30/04/2026  10.08                 0 __init__.py
+               8 File(s)          2.913 bytes
+
+ Directory of C:\Users\ASUS\env\Scripts\project_name\main\migrations
+
+30/04/2026  10.08    <DIR>          .
+30/04/2026  10.44    <DIR>          ..
+30/04/2026  10.08                 0 __init__.py
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\ASUS\env\Scripts\project_name\main\static
+
+30/04/2026  10.08    <DIR>          .
+30/04/2026  10.44    <DIR>          ..
+30/04/2026  10.08    <DIR>          img
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\ASUS\env\Scripts\project_name\main\static\img
+
+30/04/2026  10.08    <DIR>          .
+30/04/2026  10.08    <DIR>          ..
+30/04/2026  10.08             3.475 django-logo-negative.svg
+               1 File(s)          3.475 bytes
+
+ Directory of C:\Users\ASUS\env\Scripts\project_name\main\templates
+
+30/04/2026  10.18    <DIR>          .
+30/04/2026  10.44    <DIR>          ..
+30/04/2026  10.08    <DIR>          main
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\ASUS\env\Scripts\project_name\main\templates\main
+
+30/04/2026  10.08    <DIR>          .
+30/04/2026  10.18    <DIR>          ..
+30/04/2026  10.08               245 home.html
+               1 File(s)            245 bytes
+
+ Directory of C:\Users\ASUS\env\Scripts\project_name\project_name
+
+30/04/2026  10.38    <DIR>          .
+30/04/2026  10.50    <DIR>          ..
+30/04/2026  10.08               417 asgi.py
+30/04/2026  10.08             4.857 settings.py
+30/04/2026  10.08               821 urls.py
+30/04/2026  10.08               417 wsgi.py
+30/04/2026  10.08                 0 __init__.py
+30/04/2026  10.38    <DIR>          __pycache__
+               5 File(s)          6.512 bytes
+
+ Directory of C:\Users\ASUS\env\Scripts\project_name\project_name\__pycache__
+
+30/04/2026  10.38    <DIR>          .
+30/04/2026  10.38    <DIR>          ..
+30/04/2026  10.38             3.423 settings.cpython-313.pyc
+30/04/2026  10.38               160 __init__.cpython-313.pyc
+               2 File(s)          3.583 bytes
+
+ Directory of C:\Users\ASUS\env\Scripts\project_name\sosmed
+
+30/04/2026  10.43    <DIR>          .
+30/04/2026  10.50    <DIR>          ..
+30/04/2026  10.40                66 admin.py
+30/04/2026  10.40                92 apps.py
+30/04/2026  10.43               640 create.html
+30/04/2026  10.42               958 list.html
+30/04/2026  10.40    <DIR>          migrations
+30/04/2026  10.40                60 models.py
+30/04/2026  10.40                63 tests.py
+30/04/2026  10.40                66 views.py
+30/04/2026  10.40                 0 __init__.py
+               8 File(s)          1.945 bytes
+
+ Directory of C:\Users\ASUS\env\Scripts\project_name\sosmed\migrations
+
+30/04/2026  10.40    <DIR>          .
+30/04/2026  10.43    <DIR>          ..
+30/04/2026  10.40                 0 __init__.py
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\ASUS\env\Scripts\project_name\static
+
+30/04/2026  10.08    <DIR>          .
+30/04/2026  10.50    <DIR>          ..
+30/04/2026  10.08    <DIR>          css
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\ASUS\env\Scripts\project_name\static\css
+
+30/04/2026  10.08    <DIR>          .
+30/04/2026  10.08    <DIR>          ..
+30/04/2026  10.08               161 style.css
+               1 File(s)            161 bytes
+
+ Directory of C:\Users\ASUS\env\Scripts\project_name\templates
+
+30/04/2026  10.08    <DIR>          .
+30/04/2026  10.50    <DIR>          ..
+30/04/2026  10.08               340 base.html
+               1 File(s)            340 bytes
+
+     Total Files Listed:
+              39 File(s)         58.081 bytes
+              41 Dir(s)  866.434.514.944 bytes free
